@@ -18,5 +18,5 @@
 | Clean | Clean | Neck | [NeckPickupClean.mp3](https://github.com/user-attachments/files/31528091/NeckPickupClean.mp3) |
 | 100% | 50% | Bridge | [BridgePickUpVolume100_Gain50.mp3](https://github.com/user-attachments/files/31528124/BridgePickUpVolume100_Gain50.mp3) |
 | 100% | 50% | Neck | [NeckPickUpVolume100_Gain50.mp3](https://github.com/user-attachments/files/31528107/NeckPickUpVolume100_Gain50.mp3) |
-| 100% | 100% | Bridge | [NeckPickupVolume100Gain100.mp3](https://github.com/user-attachments/files/31528142/NeckPickupVolume100Gain100.mp3) |
-| 100% | 100% | Neck | [BridgePickupVolume100Gain100.mp3](https://github.com/user-attachments/files/31528130/BridgePickupVolume100Gain100.mp3) |
+| 100% | 100% | Bridge | [BridgePickupVolume100Gain100.mp3](https://github.com/user-attachments/files/31528130/BridgePickupVolume100Gain100.mp3)  |
+| 100% | 100% | Neck | [NeckPickupVolume100Gain100.mp3](https://github.com/user-attachments/files/31528142/NeckPickupVolume100Gain100.mp3) |
