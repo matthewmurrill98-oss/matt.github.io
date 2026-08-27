@@ -10,9 +10,8 @@
 
 
 |  Volume %  |  Gain %  |  Neck / Bridge Pickup  |  Audio Sample  |
+|  --------  | -------  |  --------------------  |  ------------  |
 |  Clean  |  Clean  |  Bridge  |  [BridgePickupClean.mp3](https://github.com/user-attachments/files/31528088/BridgePickupClean.mp3)  |
-
-
 | Clean | Clean | Neck| [NeckPickupClean.mp3](https://github.com/user-attachments/files/31528091/NeckPickupClean.mp3) |
 | 100% | 50% | Bridge | [BridgePickUpVolume100_Gain50.mp3](https://github.com/user-attachments/files/31528124/BridgePickUpVolume100_Gain50.mp3) |
 | 100% | 50% | Neck | [NeckPickUpVolume100_Gain50.mp3](https://github.com/user-attachments/files/31528107/NeckPickUpVolume100_Gain50.mp3) |
