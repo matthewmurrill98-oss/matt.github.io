@@ -1,6 +1,6 @@
 # Projects
 
-## TL072CP Distortion Guitar Pedal
+## Distortion Guitar Pedal w/ Texas Instruments TL072CP Op-Amp
 
 ### LT Spice Schematic
 <img width="1915" height="877" alt="TL072CP" src="https://github.com/user-attachments/assets/19214f0a-c8a2-4bb3-95ac-476f6dd88df4" />
